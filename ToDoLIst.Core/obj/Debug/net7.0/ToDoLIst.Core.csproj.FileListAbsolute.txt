@@ -1,0 +1,11 @@
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\bin\Debug\net7.0\ToDoLIst.Core.deps.json
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\bin\Debug\net7.0\ToDoLIst.Core.dll
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\bin\Debug\net7.0\ToDoLIst.Core.pdb
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.AssemblyInfoInputs.cache
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.AssemblyInfo.cs
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.csproj.CoreCompileInputs.cache
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.dll
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\refint\ToDoLIst.Core.dll
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.pdb
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ref\ToDoLIst.Core.dll

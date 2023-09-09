@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "ToDoLIst.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ToDoLIst.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToDoLIst.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDoLIst.Core/1.0.0": {
+      "type": "project",
+      "path": "../ToDoLIst.Core/ToDoLIst.Core.csproj",
+      "msbuildProject": "../ToDoLIst.Core/ToDoLIst.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "ToDoLIst.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wassl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectName": "ToDoList",
+      "projectPath": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "packagesPath": "C:\\Users\\wassl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\ToDoList\\ToDoList\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\wassl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\ToDoList\\ToDoLIst.Core\\ToDoLIst.Core.csproj": {
+              "projectPath": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\ToDoList\\ToDoLIst.Core\\ToDoLIst.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
