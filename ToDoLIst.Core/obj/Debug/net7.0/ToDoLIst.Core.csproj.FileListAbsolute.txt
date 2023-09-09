@@ -9,3 +9,6 @@ C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Deb
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\refint\ToDoLIst.Core.dll
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.pdb
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ref\ToDoLIst.Core.dll
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.csproj.AssemblyReference.cache
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.csproj.Fody.CopyLocal.cache
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoLIst.Core\obj\Debug\net7.0\ToDoLIst.Core.csproj.Fody.RuntimeCopyLocal.cache

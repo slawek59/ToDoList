@@ -27,3 +27,6 @@ C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\ne
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\net7.0-windows\Controls\WorkTask.baml
 C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\net7.0-windows\Pages\WorkTasksPage.baml
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\bin\Debug\net7.0-windows\PropertyChanged.dll
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\net7.0-windows\Styles\Buttons.baml
+C:\Users\wassl\OneDrive\Pulpit\SLAWOMIR\Kodowanie\ToDoList\ToDoList\obj\Debug\net7.0-windows\App.baml
