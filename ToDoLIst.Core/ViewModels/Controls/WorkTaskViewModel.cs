@@ -2,6 +2,7 @@
 {
     public class WorkTaskViewModel : BaseViewModel
     {
+        public bool IsSelected { get; set; }
         public string Title { get; set; }   
 
         public string Description { get; set; } 

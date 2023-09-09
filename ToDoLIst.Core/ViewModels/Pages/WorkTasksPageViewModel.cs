@@ -13,10 +13,12 @@ namespace ToDoLIst.Core
         public string NewWorkTaskDescription { get; set; }
 
         public ICommand AddNewTaskCommand { get; set; }
+        public ICommand DeleteSelectedTasksCommand { get; set; }
 
         public WorkTasksPageViewModel()
         {
             AddNewTaskCommand = new RelayCommand(AddNewTask);
+            DeleteSelectedTasksCommand = new RelayCommand(DeleteSelectedTasks);
         }
 
         private void AddNewTask()
@@ -33,9 +35,18 @@ namespace ToDoLIst.Core
             NewWorkTaskTitle =string.Empty;
             NewWorkTaskDescription = string.Empty;
 
-            PropertyChanged(this, new PropertyChangedEventArgs(nameof(NewWorkTaskTitle)));
+            //OnPropertyChanged(nameof(NewWorkTaskTitle));
+            //OnPropertyChanged(nameof(NewWorkTaskDescription));
+        }
 
+        private void DeleteSelectedTasks()
+        {
+            var selectedTasks = WorkTaskList.Where(x => x.IsSelected).ToList();
 
+            foreach (var task in selectedTasks)
+            {
+                WorkTaskList.Remove(task);
+            }
         }
     }
 }
