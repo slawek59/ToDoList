@@ -27,11 +27,5 @@
     <Page Update="Styles\Buttons.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Styles\TextBlock.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Styles\TextBox.xaml">
-      <SubType>Designer</SubType>
-    </Page>
   </ItemGroup>
 </Project>
